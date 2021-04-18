@@ -11,9 +11,8 @@ Following application we gonna do with pdfs in Python
 
 Tilting/Rotating PDF file
 ------------------------------------------------------
-We have following files to do this:
 
-* dummy.pdf: It is the file whose page we will tilt.
+dummy.pdf is the file whose page we will tilt.
 
 ### main.py is the file which will tilt the dummy pdf file.
 
